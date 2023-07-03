@@ -1,5 +1,4 @@
-# Detecting Clothes
-Build by [Christopher](https://www.linkedin.com/in/rlchristopherdev/) (https://fchrisdev.netlify.app/)
+# Clothes Segmentation
 
 ![origin image](origin.PNG)
 
